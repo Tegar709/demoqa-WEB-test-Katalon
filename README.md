@@ -1,1 +1,1 @@
-# demoqa-WEB-test-Katalon
+# demoqa-Web UI test-Katalon
